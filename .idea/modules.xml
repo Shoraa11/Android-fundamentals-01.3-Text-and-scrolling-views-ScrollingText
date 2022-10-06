@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScrollingText_byShoraa.iml" filepath="$PROJECT_DIR$/.idea/modules/ScrollingText_byShoraa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollingText_byShoraa.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

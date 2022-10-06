@@ -1,0 +1,4 @@
+#Thu Oct 06 22:24:12 ICT 2022
+base.0=D\:\\Programming Workspace\\ScrollingText_byShoraa\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
